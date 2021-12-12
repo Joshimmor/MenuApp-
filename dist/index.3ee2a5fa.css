@@ -1,0 +1,21 @@
+#navbar{
+    position: absolute;
+    top:0;
+    width:100%;
+}
+.nav-link{
+    color: rgb(172, 172, 172);
+}
+#vendorDisplay{
+    position: relative;
+    top:10vh
+}
+#results{
+    position: relative;
+}
+.joshua-links{
+  width: auto;
+  text-decoration: none;
+  color: grey;
+}
+/*# sourceMappingURL=index.3ee2a5fa.css.map */
